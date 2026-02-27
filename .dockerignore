@@ -1,0 +1,17 @@
+venv/
+artifacts/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+*.db
+.git
+.gitignore
+.ipynb_checkpoints
+*.csv
+*.xlsx
+*.jpg
+*.png
+*.zip
